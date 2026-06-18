@@ -17,7 +17,7 @@
 // PIC16F877A Digital Attendance System with RC522 RFID
 // Compiler: MPLAB X + XC8
 // Clock: 4 MHz crystal
-//
+// Group Members: Shayan Kargar , Raya Ghazizadeh, Helia Ghazizadeh
 // RC522 wiring:
 //   RC522 SDA/SS  -> RC2 / pin 17
 //   RC522 SCK     -> RC3 / pin 18
